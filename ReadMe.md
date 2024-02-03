@@ -1,7 +1,7 @@
 # Brain Tumor Classification Project
 
 ## Overview
-This project leverages advanced machine-learning techniques to classify brain tumors from MRI scans. By utilizing Convolutional Neural Networks (CNNs) and Transfer Learning, we have created a system that can accurately distinguish between different types of brain tumors such as glioma, meningioma, and pituitary tumors.
+This project leverages advanced machine-learning techniques to classify brain tumors from MRI scans. By utilizing Convolutional Neural Networks (CNNs) and Transfer Learning, we have created a system that can accurately distinguish between different types of brain tumors such as glioma, meningioma, and pituitary tumors. I collaborated on this difficult project with Cray Minor. Please contact either of us at nkhoury@ucsd.edu and 
 
 ## Dataset
 The dataset comprises MRI scans labeled with the corresponding tumor type. These images have been preprocessed and augmented to improve model performance.
